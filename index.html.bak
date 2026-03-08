@@ -2,7 +2,7 @@
 <html lang="it">
 <head>
     <meta charset="UTF-8">
-    <title>Semplice lavagna PC</title>
+    <title>Lavagna Professionale FIX - Luca</title>
     <style>
         body { display: flex; flex-direction: column; align-items: center; font-family: sans-serif; background-color: #f4f4f4; margin: 0; padding: 20px; }
         canvas { border: 2px solid #222; background-color: white; cursor: crosshair; box-shadow: 0 4px 12px rgba(0,0,0,0.15); }
